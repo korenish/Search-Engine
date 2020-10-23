@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quick-json-1.0.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exLibraries/quick-json-1.0.2.3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
